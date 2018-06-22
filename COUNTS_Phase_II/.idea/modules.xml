@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/大二下/软工/COUNTS_Phase_I/Brower/Brower.iml" filepath="E:/大二下/软工/COUNTS_Phase_I/Brower/Brower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COUNTS_Phase_I.iml" filepath="$PROJECT_DIR$/COUNTS_Phase_I.iml" />
+      <module fileurl="file://E:/大二下/软工/COUNTS_Phase_II/Server/Server.iml" filepath="E:/大二下/软工/COUNTS_Phase_II/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/counts.iml" filepath="$PROJECT_DIR$/Server/counts.iml" />
+    </modules>
+  </component>
+</project>
